@@ -6,4 +6,8 @@ TEAST
 
 CHANGE
 
+<<<<<<< HEAD
 YETTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+=======
+CREATE ERROR
+>>>>>>> very-bad
